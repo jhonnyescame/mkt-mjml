@@ -1,0 +1,129 @@
+<mjml>
+    <mj-head>
+        <mj-title>Consumidor Moderno</mj-title>
+        <mj-style inline="inline">
+          @media only screen and (max-width: 599px) {
+            .versao-mobile{
+               padding-left:0px;
+               padding-right:0px;
+            }
+          }
+        </mj-style>
+    </mj-head>
+<mj-body background-color="#cccccc">
+
+<mj-section background-color="#ffffff">
+  <mj-column>
+    <mj-text padding-top="0px" padding-bottom="0px" color="#616161" font-family="Helvetica,Arial,sans-serif" font-size="10px" line-height="120%" align="center">
+        CASO NÃO ESTEJA VISUALIZANDO CORRETAMENTE ESTA MENSAGEM, <a target="_blank" style="color:#616161; text-decoration:none;" href="{{__view}}">ACESSE ESTE LINK</a>
+    </mj-text>
+  </mj-column>
+</mj-section>
+!
+<mj-section background-color="#ffffff">
+  <mj-column>
+    <mj-image width="217px" align="center" src="https://s3.amazonaws.com/newsletter-gpadrao/padrao/elementos/cm-quinzenal/topo-cm-5.jpg" href="https://www.consumidormoderno.com.br/" alt="Consumidor Moderno"></mj-image>
+  </mj-column>
+</mj-section>
+
+
+
+
+
+<!-- NOTA 1 -->
+<mj-section background-color="#ffffff" padding-top="0px" padding-bottom="0px">
+  <mj-column>
+    <mj-image width="487px" padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px" align="center" src="https://s3.amazonaws.com/newsletter-gpadrao/padrao/elementos/cm-quinzenal/02.jpg" href="https://www.consumidormoderno.com.br/" alt="Consumidor Moderno"></mj-image>
+    <mj-text  class="versao-mobile" font-family="Helvetica,Arial,sans-serif" padding-top="5px" padding-bottom="5px" padding-left="55px"  padding-right="55px">
+      <b style="color:#545454; font-size:14px; text-decoration:none;padding-bottom: 10px; display: block">
+          EXPERIÊNCIA
+      </b>
+    </mj-text>
+    <mj-text  class="versao-mobile" font-family="Helvetica,Arial,sans-serif" padding-top="5px" padding-bottom="5px" padding-left="55px"  padding-right="55px">
+      <b>
+        <a style="color:#000; font-size:20px; text-decoration:none;padding-bottom: 10px; display: block" target="_blank" href="#">
+          Há vagas: 10 startups que estão em busca de talentos
+        </a>
+      </b>
+    </mj-text>
+    <mj-text padding-top="0px" padding-bottom="0px" padding-left="55px"  padding-right="55px" font-family="Helvetica,Arial,sans-serif" font-size="15px" align="left" line-height="20px" color="#9A9A9A">
+        Conheça as oportunidades abertas em startups de renome e grande potencial de crescimento profissional, como Cabify, Creditas, iFood e Méliuz
+    </mj-text>
+
+  </mj-column>
+</mj-section>
+<!-- REDES SOCIAIS -->
+<mj-section background-color="#ffffff" padding-top="5px" padding-bottom="5px" padding-left="25px"  padding-right="55px" >
+      <mj-column>
+        <mj-social align="left" icon-size="30px" mode="horizontal">
+          <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/padrao/redes-sociais/quadrado-preto/icon-linkedin.png" href="https://www.consumidormoderno.com.br/" width="30px" height="30px"></mj-social-element>
+
+          <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/padrao/redes-sociais/quadrado-preto/icon-facebook.png" href="https://www.consumidormoderno.com.br/" width="30px" height="30px"></mj-social-element>
+
+          <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/padrao/redes-sociais/quadrado-preto/icon-twitter.png" href="https://www.consumidormoderno.com.br/" width="30px" height="30px"></mj-social-element>
+
+          <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/padrao/redes-sociais/quadrado-preto/icon-whatsapp.png" href="https://www.consumidormoderno.com.br/" width="30px" height="30px"></mj-social-element>
+        </mj-social>
+      </mj-column>
+</mj-section>
+<!-- FINAL REDES SOCIAIS -->
+<!-- FINAL NOTA 1 -->
+
+
+
+
+
+
+
+
+
+<mj-section background-color="#000">
+  <mj-column>
+    <mj-text padding-top="0px" padding-bottom="0px" color="#fff" font-family="Helvetica,Arial,sans-serif" font-size="20px" line-height="120%" align="center">
+        <a target="_blank" style="color:#fff; text-decoration:none; font-weight:bold;" href="https://www.consumidormoderno.com.br">   www.consumidormoderno.com.br
+        </a>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section background-color="#000">
+  <mj-column>
+    <mj-social align="center" icon-size="30px" mode="horizontal">
+      <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/padrao/redes-sociais/quadrado-branco-1/icon-facebook.png" href="https://www.facebook.com/consumidormoderno" width="30px" height="30px"></mj-social-element>
+
+      <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/padrao/redes-sociais/quadrado-branco-1/icon-twitter.png" href="https://www.twitter.com/cmoderno" width="30px" height="30px"></mj-social-element>
+
+      <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/padrao/redes-sociais/quadrado-branco-1/icon-linkedin.png" href="https://www.linkedin.com/showcase/consumidor-moderno/" width="30px" height="30px"></mj-social-element>
+
+      <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/padrao/redes-sociais/quadrado-branco-1/icon-youtube.png" href="https://www.youtube.com/consumidormoderno" width="30px" height="30px"></mj-social-element>
+
+      <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/padrao/redes-sociais/quadrado-branco-1/icon-instagram.png" href="https://www.instagram.com/consumidormoderno" width="30px" height="30px"></mj-social-element>
+
+    </mj-social>
+  </mj-column>
+</mj-section>
+
+<mj-section background-color="#000">
+  <mj-column>
+    <mj-image width="130px" align="center" src="https://s3.amazonaws.com/newsletter-gpadrao/padrao/elementos/cm-quinzenal/logo-gpadrao.jpg" href="http://www.gpadrao.com.br/" alt="Grupo Padrão"></mj-image>
+  </mj-column>
+</mj-section>
+
+<mj-section background-color="#000000">
+  <mj-column>
+    <mj-text padding-top="0px" padding-bottom="0px" color="#ffffff" font-family="Helvetica,Arial,sans-serif" font-size="10px" line-height="120%" align="center">
+        <a target="_BLANK" style="color:#ffffff;" href="{{__optout}}">DESCADASTRE-SE</a> CASO NÃO QUEIRA RECEBER MAIS E-MAILS
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section>
+  <mj-column width="45%">
+    <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+    <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+  </mj-column>
+</mj-section>
+
+
+</mj-body>
+</mjml>

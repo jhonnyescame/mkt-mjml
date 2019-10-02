@@ -16,8 +16,8 @@ var pastaProd = ['news-prod/**/*.html'];
 
 gulp.task('news', function () {
   return gulp.src(pastaDev)
-    // .pipe(mjml()) 
-    .pipe(mjml(mjmlEngine, {minify: true})) // MIMIFICAR
+    .pipe(mjml()) 
+    // .pipe(mjml(mjmlEngine, {minify: true})) // MIMIFICAR
     .pipe(gulp.dest('./news-prod'))
 });
 

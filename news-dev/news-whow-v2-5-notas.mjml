@@ -1,0 +1,269 @@
+<mjml>
+    <mj-head>
+        <mj-title>whow! NEWS</mj-title>
+    </mj-head>
+<mj-body background-color="#a7a6a6">
+
+
+<mj-section background-color="#ffffff" padding-top="0px" padding-bottom="0px">
+  <mj-column>
+    <mj-image padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px" align="center" src="https://newsletter-gpadrao.s3.amazonaws.com/padrao/elementos/whow/top-news-whow-black.jpg" href="https://www.whow.com.br/" alt="Consumidor Moderno"></mj-image>
+  </mj-column>
+</mj-section>
+
+
+<!-- NOTA 1 -->
+<mj-section background-color="#ffffff" padding-top="0px" padding-bottom="0px">
+  <mj-column>
+    <mj-image width="600px" padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px" align="center" src="https://www.whow.com.br/wp-content/uploads/2019/09/vagas-ifood-edit-news.jpg" href="https://www.consumidormoderno.com.br/" alt="Consumidor Moderno"></mj-image>
+
+    <mj-text font-family="Helvetica,Arial,sans-serif"  padding-top="10px" padding-bottom="5px" padding-left="30px"  padding-right="30px">
+      <b>
+        <a style="color:#000; font-size:20px; text-decoration:none;padding-bottom: 10px; display: block" target="_blank" href="#">
+          Há vagas: 10 startups que estão em busca de talentos
+        </a>
+      </b>
+    </mj-text>
+    <mj-text padding-top="0px" padding-bottom="0px" padding-left="30px"  padding-right="30px" font-family="Helvetica,Arial,sans-serif" font-size="15px" align="left" line-height="20px" color="#9A9A9A">
+        Conheça as oportunidades abertas em startups de renome e grande potencial de crescimento profissional, como Cabify, Creditas, iFood e Méliuz
+    </mj-text>
+
+  </mj-column>
+</mj-section>
+<!-- REDES SOCIAIS -->
+<mj-section background-color="#ffffff" padding-top="0px" padding-bottom="5px" padding-left="2px"  padding-right="55px" >
+      <mj-column>
+        <mj-social align="left" icon-size="25px" mode="horizontal">
+          <mj-social-element src="https://newsletter-gpadrao.s3.amazonaws.com/padrao/redes-sociais/quadrado-preto-whow/rede-link-m.png" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+
+          <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/padrao/redes-sociais/quadrado-preto/icon-twitter.png" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+
+          <mj-social-element src="https://newsletter-gpadrao.s3.amazonaws.com/padrao/redes-sociais/quadrado-preto-whow/rede-whats-m.png" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+        </mj-social>
+      </mj-column>
+</mj-section>
+<!-- FINAL REDES SOCIAIS -->
+<!-- FINAL NOTA 1 -->
+
+
+
+<!-- NOTA 2 -->
+<mj-section background-color="#ffffff" padding-top="0px" padding-bottom="0px">
+  <mj-column>
+    <mj-image width="600px" padding-bottom="0px" padding-top="0px" padding-left="0px" padding-right="0px" align="center" src="https://www.whow.com.br/wp-content/uploads/2019/09/nubank-ranking-edit-news.jpg" href="https://www.consumidormoderno.com.br/" alt="Consumidor Moderno"></mj-image>
+
+    <mj-text font-family="Helvetica,Arial,sans-serif"  padding-top="10px" padding-bottom="5px" padding-left="30px"  padding-right="30px">
+      <b>
+        <a style="color:#000; font-size:20px; text-decoration:none;padding-bottom: 10px; display: block" target="_blank" href="#">
+          LinkedIn aponta as startups mais desejadas para se trabalhar no Brasil
+        </a>
+      </b>
+    </mj-text>
+    <mj-text padding-top="0px" padding-bottom="0px" padding-left="30px"  padding-right="30px" font-family="Helvetica,Arial,sans-serif" font-size="15px" align="left" line-height="20px" color="#9A9A9A">
+        Confira o ranking 25 Top Startups de 2019 do LinkedIn, que revela quais empresas do setor de inovação são as melhores para se trabalhar no Brasil
+    </mj-text>
+
+  </mj-column>
+</mj-section>
+<!-- REDES SOCIAIS -->
+<mj-section background-color="#ffffff" padding-top="0px" padding-bottom="5px" padding-left="2px"  padding-right="55px" >
+      <mj-column>
+        <mj-social align="left" icon-size="25px" mode="horizontal">
+          <mj-social-element src="https://newsletter-gpadrao.s3.amazonaws.com/padrao/redes-sociais/quadrado-preto-whow/rede-link-m.png" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+
+          <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/padrao/redes-sociais/quadrado-preto/icon-twitter.png" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+
+          <mj-social-element src="https://newsletter-gpadrao.s3.amazonaws.com/padrao/redes-sociais/quadrado-preto-whow/rede-whats-m.png" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+        </mj-social>
+      </mj-column>
+</mj-section>
+<!-- FINAL REDES SOCIAIS -->
+<!-- FINAL NOTA 2 -->
+
+
+
+<!-- NOTA 3 -->
+<mj-section background-color="#000" padding-top="20px" padding-bottom="20px">
+  <mj-column>
+
+    <mj-text font-family="Helvetica,Arial,sans-serif"  padding-top="10px" padding-bottom="5px" padding-left="30px"  padding-right="30px">
+      <b>
+        <a style="color:#fff; font-size:20px; text-decoration:none;padding-bottom: 10px; display: block" target="_blank" href="#">
+          Amazon, Samsung, Apple e seus novos negócios: carros autônomos
+        </a>
+      </b>
+    </mj-text>
+    <mj-text padding-top="0px" padding-bottom="0px" padding-left="30px"  padding-right="30px" font-family="Helvetica,Arial,sans-serif" font-size="15px" align="left" line-height="20px" color="#fff">
+        O segmento de carros sem piloto vai muito além da Audi e da Tesla e chama a atenção de marcas inusitadas, como Amazon, Samsung e Apple
+    </mj-text>
+
+  </mj-column>
+  <mj-column>
+
+    <mj-image padding-bottom="0px" padding-top="20px" padding-left="0px" padding-right="30px" align="center" src="https://www.whow.com.br/wp-content/uploads/2019/09/autonomos-news.jpg" href="https://www.consumidormoderno.com.br/" alt="Consumidor Moderno"></mj-image>
+
+  </mj-column>
+</mj-section>
+<!-- REDES SOCIAIS -->
+<mj-section background-color="#ffffff" padding-top="0px" padding-bottom="5px" padding-left="2px"  padding-right="30px" >
+      <mj-column>
+        <mj-social align="left" icon-size="25px" mode="horizontal">
+          <mj-social-element src="https://newsletter-gpadrao.s3.amazonaws.com/padrao/redes-sociais/quadrado-preto-whow/rede-link-m.png" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+
+          <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/padrao/redes-sociais/quadrado-preto/icon-twitter.png" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+
+          <mj-social-element src="https://newsletter-gpadrao.s3.amazonaws.com/padrao/redes-sociais/quadrado-preto-whow/rede-whats-m.png" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+        </mj-social>
+      </mj-column>
+</mj-section>
+<!-- FINAL REDES SOCIAIS -->
+<!-- FINAL NOTA 3 -->
+
+
+
+
+
+<!-- NOTA 4 -->
+<mj-section background-color="#fff" padding-top="20px" padding-bottom="20px">
+  <mj-column>
+
+    <mj-image padding-bottom="0px" padding-top="0px" padding-left="0px" align="center" src="https://www.whow.com.br/wp-content/uploads/2019/09/einstein_topo2-1920x600-news.jpg" href="https://www.consumidormoderno.com.br/" alt="Consumidor Moderno"></mj-image>
+
+  </mj-column>
+  <mj-column>
+
+    <mj-text font-family="Helvetica,Arial,sans-serif" padding-top="10px" padding-bottom="5px" padding-left="5px"  padding-right="30px">
+      <b>
+        <a style="color:#000; font-size:20px; text-decoration:none;padding-bottom: 10px; display: block" target="_blank" href="#">
+            Hospital Albert Einstein aposta em startup para reduzir desperdício de sangue Hospital Albert Einstein aposta em startup para reduzir desperdício de sangue
+        </a>
+      </b>
+    </mj-text>
+
+    <mj-text padding-top="0px" padding-bottom="0px" padding-left="5px"  padding-right="30px" font-family="Helvetica,Arial,sans-serif" font-size="15px" align="left" line-height="20px" color="#9A9A9A">
+        SaveLivez ajuda bancos de sangue e hospitais a diminuírem a falta de sangue e a economizarem através de decisões com base em dados
+    </mj-text>
+
+
+      <mj-social align="left" icon-size="25px" mode="horizontal" background-color="#ffffff" padding-top="10px" padding-bottom="5px" padding-left="5px"  padding-right="0px" >
+        <mj-social-element src="https://newsletter-gpadrao.s3.amazonaws.com/padrao/redes-sociais/quadrado-preto-whow/rede-link-m.png" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+
+        <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/padrao/redes-sociais/quadrado-preto/icon-twitter.png" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+
+        <mj-social-element src="https://newsletter-gpadrao.s3.amazonaws.com/padrao/redes-sociais/quadrado-preto-whow/rede-whats-m.png" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+      </mj-social>
+
+  </mj-column>
+
+</mj-section>
+<!-- REDES SOCIAIS -->
+
+<!-- FINAL REDES SOCIAIS -->
+<!-- FINAL NOTA 4 -->
+
+
+<!-- NOTA 4 -->
+<mj-section background-color="#fff" padding-top="20px" padding-bottom="20px">
+  <mj-column>
+
+    <mj-image padding-bottom="0px" padding-top="0px" padding-left="0px" align="center" src="https://www.whow.com.br/wp-content/uploads/2019/09/4g-corpo-edit-news.jpg" href="https://www.consumidormoderno.com.br/" alt="Consumidor Moderno"></mj-image>
+
+  </mj-column>
+  <mj-column>
+
+    <mj-text font-family="Helvetica,Arial,sans-serif" padding-top="10px" padding-bottom="5px" padding-left="5px"  padding-right="30px">
+      <b>
+        <a style="color:#000; font-size:20px; text-decoration:none;padding-bottom: 10px; display: block" target="_blank" href="#">
+          Os (persistentes) desafios da penetração do 4G no Brasil Os (persistentes) desafios da penetração do 4G no Brasil
+        </a>
+      </b>
+    </mj-text>
+
+    <mj-text padding-top="0px" padding-bottom="0px" padding-left="5px"  padding-right="30px" font-family="Helvetica,Arial,sans-serif" font-size="15px" align="left" line-height="20px" color="#9A9A9A">
+        Enquanto o 5G é implementado em outros lugares do mundo, o Brasil ainda tem dificuldades de oferecer o 4G para sua população
+    </mj-text>
+
+
+      <mj-social align="left" icon-size="25px" mode="horizontal" background-color="#ffffff" padding-top="10px" padding-bottom="5px" padding-left="5px"  padding-right="0px" >
+        <mj-social-element src="https://newsletter-gpadrao.s3.amazonaws.com/padrao/redes-sociais/quadrado-preto-whow/rede-link-m.png" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+
+        <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/padrao/redes-sociais/quadrado-preto/icon-twitter.png" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+
+        <mj-social-element src="https://newsletter-gpadrao.s3.amazonaws.com/padrao/redes-sociais/quadrado-preto-whow/rede-whats-m.png" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+      </mj-social>
+
+  </mj-column>
+
+</mj-section>
+<!-- REDES SOCIAIS -->
+
+<!-- FINAL REDES SOCIAIS -->
+<!-- FINAL NOTA 4 -->
+
+
+<mj-section background-color="#000" padding-top="15px" padding-bottom="15px">
+  <mj-column>
+    <mj-image width="220px" padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px" align="center" src="https://newsletter-gpadrao.s3.amazonaws.com/whow/2019/06-junho/05-06/site-whow.jpg" href="https://www.whow.com.br/" alt="Whow"></mj-image>
+
+      <mj-social align="center" mode="horizontal" background-color="#ffffff" padding-top="10px" padding-bottom="5px" padding-left="5px"  padding-right="0px" >
+
+        <mj-social-element icon-size="25px" src="https://newsletter-gpadrao.s3.amazonaws.com/padrao/redes-sociais/icon-branco/icon-instagram-g.png" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+
+        <mj-social-element icon-size="26px" src="https://newsletter-gpadrao.s3.amazonaws.com/padrao/redes-sociais/icon-branco/icon-linkedin-g.png" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+
+        <mj-social-element icon-size="17px" src="https://newsletter-gpadrao.s3.amazonaws.com/padrao/redes-sociais/icon-branco/icon-facebook-g.png" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+
+        <mj-social-element icon-size="26px" src="https://newsletter-gpadrao.s3.amazonaws.com/padrao/redes-sociais/icon-branco/icon-twitter-g.png" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+      </mj-social>
+
+  </mj-column>
+</mj-section>
+
+
+<mj-section background-color="#fff" padding-top="20px" padding-bottom="20px">
+  <mj-column>
+  </mj-column>
+</mj-section>
+
+
+<mj-section background-color="#ffffff" padding-top="0px" padding-bottom="0px">
+  <mj-column>
+    <mj-image padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px" align="center" src="https://newsletter-gpadrao.s3.amazonaws.com/whow/2019/08-Agosto/news-nova/footer.png" href="https://www.whow.com.br/" alt="Whow"></mj-image>
+  </mj-column>
+</mj-section>
+
+
+
+<mj-section background-color="#fff" padding-top="20px" padding-bottom="20px">
+  <mj-column>
+
+    <mj-text padding-top="0px" padding-bottom="0px" padding-left="5px"  padding-right="30px" font-family="Helvetica,Arial,sans-serif" font-size="12px" align="center" line-height="20px" color="#000">
+        <b>Enviado por <a style="color:#000; text-decoration:none;" target="_blank" href="http://www.gpadrao.com.br/">Grupo Padrão</a></b>
+    </mj-text>
+    <mj-text padding-top="0px" padding-bottom="0px" padding-left="5px"  padding-right="30px" font-family="Helvetica,Arial,sans-serif" font-size="12px" align="center" line-height="20px" color="#000">
+      <a style="color:#000; text-decoration:none;" target="_blank" href="https://comlink.whow.com.br/cl/PGCXq/Ymu/9502/YddTTbzoa-/BNIn/KMunHDOBK-d/1/">Av. Pacaembu, 1.613 – Pacaembu | São Paulo-SP | CEP 01234-001</a> | <a style="color:#000; text-decoration:none;" href="tel:1131252244">+55 11 31252244</a>
+    </mj-text>   
+  </mj-column>
+</mj-section>
+
+
+
+<tr>
+<td style="padding: 15px 0; color: #000; font-family: Arial, sans-serif; font-size:12px; text-align:left; background-color:#fff;line-height:15px">
+<center><b>Enviado por <a style="color:#000; text-decoration:none;" target="_blank" href="https://comlink.whow.com.br/cl/PGCXq/Ymu/9502/YddTTbzoa-/BNIn/IdpM5Y6wj_-/1/">Grupo Padrão</a></b>
+  <br><a style="color:#000; text-decoration:none;" target="_blank" href="https://comlink.whow.com.br/cl/PGCXq/Ymu/9502/YddTTbzoa-/BNIn/KMunHDOBK-d/1/">Av. Pacaembu, 1.613 – Pacaembu | São Paulo-SP | CEP 01234-001</a> | <a style="color:#000; text-decoration:none;" href="tel:1131252244">+55 11 31252244</a></center>
+</td>
+</tr>
+
+
+
+<mj-section>
+  <mj-column width="45%">
+    <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+    <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+  </mj-column>
+</mj-section>
+
+
+</mj-body>
+</mjml>

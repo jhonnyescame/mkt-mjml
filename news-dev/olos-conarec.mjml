@@ -1,0 +1,66 @@
+<mjml>
+    <mj-head>
+        <mj-title>whow! NEWS</mj-title>
+    </mj-head>
+<mj-body background-color="#F1F1F1">
+
+
+  <mj-section background-color="#ffffff" padding-top="10px" padding-bottom="0px" padding-right="0" padding-left="0" >
+    <mj-column>
+        <mj-image width="600px" padding-right="0" padding-left="0" padding-top="0px" padding-bottom="0px" align="center" src="http://gpadrao.com.br/makt/2019/parceiro/olos/1/images/topo.jpg" alt="CONAREC" href="https://www.conarec.com.br/"></mj-image>
+    </mj-column>
+  </mj-section>
+
+  <mj-section background-color="#ffffff" padding-top="0px" padding-bottom="0px" padding-right="0" padding-left="0" >
+    <mj-column>
+        <mj-image width="600px" padding-right="0" padding-left="0" padding-top="0px" padding-bottom="0px" align="center" src="http://gpadrao.com.br/makt/2019/parceiro/olos/1/images/img_01.jpg" alt="Ols" href="http://www.olos.com.br/"></mj-image>
+    </mj-column>
+  </mj-section>
+
+  <mj-section background-color="#020304" padding-top="0px" padding-bottom="0px" padding-right="0" padding-left="0" >
+    <mj-column  width="325px">
+        <mj-image width="325px" height="337px" padding-right="0" padding-left="0" padding-top="0px" padding-bottom="0px" align="center" src="http://gpadrao.com.br/makt/2019/parceiro/olos/1/images/img_02.jpg" alt="Ols" href="http://www.olos.com.br/"></mj-image>
+    </mj-column>
+
+    <mj-column  width="275px" >
+        <mj-image width="275px" height="337px" padding-right="0" padding-left="0" padding-top="0px" padding-bottom="0px" align="center" src="http://gpadrao.com.br/makt/2019/parceiro/olos/1/images/img_03.jpg" alt="Ols" href="http://www.olos.com.br/"></mj-image>
+    </mj-column>
+
+  </mj-section>
+
+
+
+  <mj-section background-color="#ffffff" padding-top="0px" padding-bottom="0px" padding-right="0" padding-left="0" >
+    <mj-column>
+        <mj-image width="600px" padding-right="0" padding-left="0" padding-top="0px" padding-bottom="0px" align="center" src="http://gpadrao.com.br/makt/2019/parceiro/olos/1/images/img_04.jpg" alt="Ols" href="http://www.olos.com.br/"></mj-image>
+    </mj-column>
+  </mj-section>
+
+  <mj-section background-color="#ffffff" padding-top="0px" padding-bottom="0px" padding-right="0" padding-left="0" >
+    <mj-column>
+        <mj-image width="600px" padding-right="0" padding-left="0" padding-top="0px" padding-bottom="0px" align="center" src="http://gpadrao.com.br/makt/2019/parceiro/olos/1/images/img_05.jpg" alt="Ols" href="http://www.olos.com.br/"></mj-image>
+    </mj-column>
+  </mj-section>
+
+
+
+
+
+  <mj-section background-color="#ffffff" padding-top="10px" padding-bottom="10px" padding-right="0" padding-left="0" >
+    <mj-column>
+        <mj-image width="120px" padding-right="0" padding-left="0" align="center" src="https://newsletter-gpadrao.s3.amazonaws.com/padrao/elementos/gpadrao/logo.png" href="http://www.gpadrao.com.br/" alt="Grupo Padrão"></mj-image>
+    </mj-column>
+  </mj-section>
+
+  <mj-section background-color="#ffffff" padding-top="10px" padding-bottom="10px" >
+    <mj-column>
+    <mj-text vertical="middle" padding-top="0px" padding-bottom="0px" color="#666" font-family="Verdana, Geneva, sans-serif" font-size="10px" line-height="23px" align="center">
+        <b>Enviado por Grupo Padrão</b><br>
+        <a style="text-decoration:none;color:#000000" href="https://www.google.com/maps/place/Grupo+Padr%C3%A3o/@-23.5405043,-46.6639942,15z/data=!4m5!3m4!1s0x0:0xf303e20b80be2358!8m2!3d-23.5405043!4d-46.6639942" target="_blank">
+        Av. Pacaembu, 1.613 – Pacaembu | São Paulo-SP | CEP 01234-001 </a>| <a href="tel:+1131252244" target="_blank" style="text-decoration:none;color:#000000">+55 11 31252244</a>
+      </mj-text>
+    </mj-column>
+  </mj-section>
+
+</mj-body>
+</mjml>

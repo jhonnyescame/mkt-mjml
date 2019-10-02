@@ -1,0 +1,320 @@
+<mjml>
+    <mj-head>
+        <mj-title>Consumidor Moderno</mj-title>
+    </mj-head>
+<mj-body background-color="#cccccc">
+
+<mj-section background-color="#ffffff">
+  <mj-column>
+    <mj-text padding-top="0px" padding-bottom="0px" color="#616161" font-family="Helvetica,Arial,sans-serif" font-size="10px" line-height="120%" align="center">
+        CASO NÃO ESTEJA VISUALIZANDO CORRETAMENTE ESTA MENSAGEM, <a target="_blank" style="color:#616161; text-decoration:none;" href="{{__view}}">ACESSE ESTE LINK</a>
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section padding-bottom="20px" padding-top="0" background-color="#ffffff">
+  <mj-column width="100%">
+  <mj-image src="http://padraoeditorial.com.br/banner/Banner600x90.jpg"  href="https://www.youtube.com/watch?v=ynOM29HMGu8" align="center" border="none" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+  </mj-column>
+</mj-section>
+
+<mj-section background-color="#2C2C2C"  padding-top="10px" padding-bottom="0px">
+  <mj-column padding-top="0px" padding-bottom="0px">
+    <mj-image width="273px" padding-bottom="0px" align="center" src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/NV2018_003.jpg" href="https://www.portalnovarejo.com.br/" alt="NOVAREJO"></mj-image>
+  </mj-column>
+</mj-section>
+
+<mj-section background-color="#2C2C2C" padding-top="0px" padding-bottom="0px">
+  <mj-column  padding-top="0px" padding-bottom="0px">
+    <mj-social align="center" icon-size="76px" mode="horizontal"  padding-top="0px" padding-bottom="0px">
+      <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/NV2018_10.jpg" href="https://portalnovarejo.com.br/category/gente/" ></mj-social-element>
+      <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/NV2018_11.jpg" href="https://portalnovarejo.com.br/category/canais/" ></mj-social-element>
+      <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/NV2018_13.jpg" href="https://portalnovarejo.com.br/category/tecnologia/" ></mj-social-element>
+      <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/NV2018_15.jpg" href="https://portalnovarejo.com.br/category/empreenda/" ></mj-social-element>
+      <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/NV2018_17.jpg" href="https://portalnovarejo.com.br/category/gestao/" ></mj-social-element>
+      <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/NV2018_19.jpg" href="https://portalnovarejo.com.br/category/cotidiano/" ></mj-social-element>
+    </mj-social>
+  </mj-column>
+</mj-section>
+
+<mj-section padding-bottom="10px" padding-top="10px" background-color="#ffffff">
+  <mj-column width="100%">
+  </mj-column>
+</mj-section>
+
+<mj-section padding-bottom="2px" padding-top="2px" background-color="#b848ba">
+  <mj-column width="100%">
+    <!-- CATEGORIAS -->
+  </mj-column>
+</mj-section>
+
+<mj-section padding-bottom="0px" padding-top="0px" background-color="#b848ba">
+  <mj-column width="100%">
+    <mj-image src="https://s3.amazonaws.com/newsletter-gpadrao/novarejo/2019/03-Marco/06-03/01.jpg"  href="https://www.youtube.com/watch?v=ynOM29HMGu8" align="center" border="none" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+  </mj-column>
+</mj-section>
+
+
+<!-- NOTA 1 -->
+<mj-section background-color="#2C2C2C" padding-top="5px" padding-bottom="5px">
+  <mj-column>
+    <mj-navbar-link href="#" padding-top="5px" padding-bottom="3px" padding-left="10px" padding-right="15px" color="#b848ba" font-family="Helvetica,Arial,sans-serif" font-size="16px" line-height="120%">
+        <b>
+            Maturidade não vem com o tempo
+        </b>
+    </mj-navbar-link>
+
+    <mj-text padding-top="0px" padding-bottom="5px" padding-left="20px"  padding-right="10px" font-family="Helvetica,Arial,sans-serif" font-size="14px" align="left" line-height="120%" color="#ffffff">
+        Estudo exclusivo traz um roadmap da transformação digital no País. Veja o que pensam CEOs, CIOs e CMOs e como eles usam a digitalização nos negócios
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section background-color="#2C2C2C" padding-top="5px" padding-bottom="5px">
+  <mj-column width="12%">
+    <mj-navbar-link href="#" padding-top="10px" padding-bottom="0px" padding-left="0px" padding-right="0px" color="#ffffff" font-family="Helvetica,Arial,sans-serif" font-size="13px" line-height="120%">
+        <b>
+            Leia mais
+        </b>
+    </mj-navbar-link>
+  </mj-column>
+  <mj-column width="80%">
+    <!-- REDES SOCIAIS -->
+    <mj-social align="left" icon-size="36px" mode="horizontal">
+      <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/face_nota.jpg" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+
+      <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/twitter_nota.jpg" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+
+      <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/linkedin_nota.jpg" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+    </mj-social>
+    <!-- FINAL REDES SOCIAIS -->
+  </mj-column>
+</mj-section>
+<!-- FINAL NOTA 1 -->
+
+
+
+
+
+
+
+
+<!-- NOTA 2 MEDIA -->
+<mj-section background-color="#ffffff" padding-top="20px" padding-bottom="20px">
+
+  <mj-column width="50%" background-color="#ffffff" padding-top="0px" padding-bottom="0px" padding-right="15px" padding-left="0px">
+    <mj-column width="100%" background-color="#b848ba" padding-top="5px" padding-bottom="0px" padding-right="0px" padding-left="0px">
+      <!-- CATEGORIA -->
+    </mj-column>
+    <mj-column width="100%" background-color="#2C2C2C" padding-top="0px" padding-bottom="0px" padding-right="0px" padding-left="0px">
+      <mj-image src="https://s3.amazonaws.com/newsletter-gpadrao/novarejo/2019/03-Marco/06-03/03.jpg"  href="#LINK" align="center" border="none" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      <mj-navbar-link href="#" padding-top="5px" padding-bottom="3px" padding-left="10px" padding-right="15px" color="#b848ba" font-family="Helvetica,Arial,sans-serif" font-size="16px" line-height="120%">
+          <b>
+              Maturidade não vem com o tempo
+          </b>
+      </mj-navbar-link>
+      <mj-text padding-top="0px" padding-bottom="0px" padding-left="20px"  padding-right="15px" font-family="Helvetica,Arial,sans-serif" font-size="14px" align="left" line-height="120%" color="#ffffff">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      </mj-text>
+      <mj-section background-color="#2C2C2C" padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px">
+        <!-- -->
+        <mj-column width="30%">
+          <mj-navbar-link href="#" padding-top="12px" padding-bottom="0px" padding-left="8px" padding-right="0px" color="#ffffff" font-family="Helvetica,Arial,sans-serif" font-size="13px" line-height="120%">
+              <b>
+                  Leia mais
+              </b>
+          </mj-navbar-link>
+        </mj-column>
+
+        <mj-column width="70%" padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px">
+          <!-- REDES SOCIAIS -->
+          <mj-social align="left" icon-size="36px" mode="horizontal" padding-left="0px" >
+            <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/face_nota.jpg" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+
+            <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/twitter_nota.jpg" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+
+            <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/linkedin_nota.jpg" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+          </mj-social>
+          <!-- FINAL REDES SOCIAIS -->
+        </mj-column>
+      </mj-section>
+    </mj-column>
+
+  </mj-column>
+
+
+  <mj-column width="50%" background-color="#ffffff" padding-top="0px" padding-bottom="0px" padding-right="0px" padding-left="15px">
+    <mj-column width="100%" background-color="#b848ba" padding-top="5px" padding-bottom="0px" padding-right="0px" padding-left="0px">
+      <!-- CATEGORIA -->
+    </mj-column>
+    <mj-column width="100%" background-color="#2C2C2C" padding-top="0px" padding-bottom="0px" padding-right="0px" padding-left="0px">
+      <mj-image src="https://s3.amazonaws.com/newsletter-gpadrao/novarejo/2019/03-Marco/06-03/02.jpg"  href="#LINK" align="center" border="none" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      <mj-navbar-link href="#" padding-top="5px" padding-bottom="3px" padding-left="10px" padding-right="15px" color="#b848ba" font-family="Helvetica,Arial,sans-serif" font-size="16px" line-height="120%">
+          <b>
+              Maturidade não vem com o tempo
+          </b>
+      </mj-navbar-link>
+      <mj-text padding-top="0px" padding-bottom="5px" padding-left="20px"  padding-right="15px" font-family="Helvetica,Arial,sans-serif" font-size="14px" align="left" line-height="120%" color="#ffffff">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      </mj-text>
+      <mj-section background-color="#2C2C2C" padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px">
+        <!-- -->
+        <mj-column width="30%">
+          <mj-navbar-link href="#" padding-top="12px" padding-bottom="0px" padding-left="8px" padding-right="0px" color="#ffffff" font-family="Helvetica,Arial,sans-serif" font-size="13px" line-height="120%">
+              <b>
+                  Leia mais
+              </b>
+          </mj-navbar-link>
+        </mj-column>
+
+        <mj-column width="70%" padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px">
+          <!-- REDES SOCIAIS -->
+          <mj-social align="left" icon-size="36px" mode="horizontal" padding-left="0px" >
+            <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/face_nota.jpg" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+
+            <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/twitter_nota.jpg" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+
+            <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/linkedin_nota.jpg" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+          </mj-social>
+          <!-- FINAL REDES SOCIAIS -->
+        </mj-column>
+      </mj-section>
+    </mj-column>
+  </mj-column>
+
+</mj-section>
+<!-- FINALNOTA 2 MEDIA -->
+
+
+
+<!-- NOTA 2 MEDIA -->
+<mj-section background-color="#ffffff" padding-top="0px" padding-bottom="20px">
+
+  <mj-column width="50%" background-color="#ffffff" padding-top="0px" padding-bottom="0px" padding-right="15px" padding-left="0px">
+    <mj-column width="100%" background-color="#b848ba" padding-top="5px" padding-bottom="0px" padding-right="0px" padding-left="0px">
+      <!-- CATEGORIA -->
+    </mj-column>
+    <mj-column width="100%" background-color="#2C2C2C" padding-top="0px" padding-bottom="0px" padding-right="0px" padding-left="0px">
+      <mj-image src="https://s3.amazonaws.com/newsletter-gpadrao/novarejo/2019/03-Marco/06-03/03.jpg"  href="#LINK" align="center" border="none" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      <mj-navbar-link href="#" padding-top="5px" padding-bottom="3px" padding-left="10px" padding-right="15px" color="#b848ba" font-family="Helvetica,Arial,sans-serif" font-size="16px" line-height="120%">
+          <b>
+              Maturidade não vem com o tempo
+          </b>
+      </mj-navbar-link>
+      <mj-text padding-top="0px" padding-bottom="0px" padding-left="20px"  padding-right="15px" font-family="Helvetica,Arial,sans-serif" font-size="14px" align="left" line-height="120%" color="#ffffff">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      </mj-text>
+      <mj-section background-color="#2C2C2C" padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px">
+        <!-- -->
+        <mj-column width="30%">
+          <mj-navbar-link href="#" padding-top="12px" padding-bottom="0px" padding-left="8px" padding-right="0px" color="#ffffff" font-family="Helvetica,Arial,sans-serif" font-size="13px" line-height="120%">
+              <b>
+                  Leia mais
+              </b>
+          </mj-navbar-link>
+        </mj-column>
+
+        <mj-column width="70%" padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px">
+          <!-- REDES SOCIAIS -->
+          <mj-social align="left" icon-size="36px" mode="horizontal" padding-left="0px" >
+            <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/face_nota.jpg" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+
+            <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/twitter_nota.jpg" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+
+            <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/linkedin_nota.jpg" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+          </mj-social>
+          <!-- FINAL REDES SOCIAIS -->
+        </mj-column>
+      </mj-section>
+    </mj-column>
+
+  </mj-column>
+
+
+  <mj-column width="50%" background-color="#ffffff" padding-top="0px" padding-bottom="0px" padding-right="0px" padding-left="15px">
+    <mj-column width="100%" background-color="#b848ba" padding-top="5px" padding-bottom="0px" padding-right="0px" padding-left="0px">
+      <!-- CATEGORIA -->
+    </mj-column>
+    <mj-column width="100%" background-color="#2C2C2C" padding-top="0px" padding-bottom="0px" padding-right="0px" padding-left="0px">
+      <mj-image src="https://s3.amazonaws.com/newsletter-gpadrao/novarejo/2019/03-Marco/06-03/02.jpg"  href="#LINK" align="center" border="none" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      <mj-navbar-link href="#" padding-top="5px" padding-bottom="3px" padding-left="10px" padding-right="15px" color="#b848ba" font-family="Helvetica,Arial,sans-serif" font-size="16px" line-height="120%">
+          <b>
+              Maturidade não vem com o tempo
+          </b>
+      </mj-navbar-link>
+      <mj-text padding-top="0px" padding-bottom="5px" padding-left="20px"  padding-right="15px" font-family="Helvetica,Arial,sans-serif" font-size="14px" align="left" line-height="120%" color="#ffffff">
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+      </mj-text>
+      <mj-section background-color="#2C2C2C" padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px">
+        <!-- -->
+        <mj-column width="30%">
+          <mj-navbar-link href="#" padding-top="12px" padding-bottom="0px" padding-left="8px" padding-right="0px" color="#ffffff" font-family="Helvetica,Arial,sans-serif" font-size="13px" line-height="120%">
+              <b>
+                  Leia mais
+              </b>
+          </mj-navbar-link>
+        </mj-column>
+
+        <mj-column width="70%" padding-top="0px" padding-bottom="0px" padding-left="0px" padding-right="0px">
+          <!-- REDES SOCIAIS -->
+          <mj-social align="left" icon-size="36px" mode="horizontal" padding-left="0px" >
+            <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/face_nota.jpg" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+
+            <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/twitter_nota.jpg" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+
+            <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/linkedin_nota.jpg" href="https://www.consumidormoderno.com.br/"></mj-social-element>
+          </mj-social>
+          <!-- FINAL REDES SOCIAIS -->
+        </mj-column>
+      </mj-section>
+    </mj-column>
+  </mj-column>
+
+</mj-section>
+<!-- FINALNOTA 2 MEDIA -->
+
+
+
+
+
+<mj-section background-color="#2C2C2C" padding-top="3px" padding-bottom="3px">
+  <mj-column  padding-top="0px" padding-bottom="0px">
+    <mj-social align="center" icon-size="49px"  padding-top="0px" padding-bottom="0px" mode="horizontal">
+      <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/face_rodape.jpg" href="https://www.facebook.com/consumidormoderno"></mj-social-element>
+
+      <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/twitter_rodape.jpg" href="https://www.twitter.com/cmoderno"></mj-social-element>
+
+      <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/linkedin_rodape.jpg" href="https://www.linkedin.com/showcase/consumidor-moderno/"></mj-social-element>
+
+      <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/youtube_rodape.jpg" href="https://www.youtube.com/consumidormoderno"></mj-social-element>
+
+      <mj-social-element src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/instagram_rodape.jpg" href="https://www.instagram.com/consumidormoderno"></mj-social-element>
+
+    </mj-social>
+  </mj-column>
+</mj-section>
+
+<mj-section background-color="#ffffff"  padding-top="10px" padding-bottom="0px">
+  <mj-column padding-top="0px" padding-bottom="0px">
+    <mj-image width="195px" align="center" src="https://s3.amazonaws.com/newsletter-gpadrao/icons/novarejo/2018/logo-padrao.jpg" href="http://gpadrao.com.br/" alt="NOVAREJO"></mj-image>
+  </mj-column>
+</mj-section>
+
+<mj-section background-color="#ffffff">
+  <mj-column>
+    <mj-text padding-top="0px" padding-bottom="0px" color="#000000" font-family="Helvetica,Arial,sans-serif" font-size="10px" line-height="120%" align="center">
+        <a target="_BLANK" style="color:#000000;" href="{{__optout}}">DESCADASTRE-SE</a> CASO NÃO QUEIRA RECEBER MAIS E-MAILS
+    </mj-text>
+  </mj-column>
+</mj-section>
+
+<mj-section>
+  <mj-column width="45%">
+    <mj-divider border-width="2px" border-color="#616161"></mj-divider>
+    <mj-divider border-width="2px" border-color="#616161" width="45%"></mj-divider>
+  </mj-column>
+</mj-section>
+
+
+</mj-body>
+</mjml>

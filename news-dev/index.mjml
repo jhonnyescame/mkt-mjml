@@ -15,8 +15,8 @@
 <mj-section background-color="#fa8739" padding-bottom="0px" padding-top="0">
 <mj-column width="200px">
 <mj-text align="left" color="#fff" font-size="40px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
-<p style="font-size: 17px;">ESCAME</p>
-<p>88%</p>
+<p style="font-size: 17px;">ESCAMEEE</p>
+<p>100%</p>
 <p>HELL</p>
 <p style="font-size: 13px">Lorem ipsum dolor sit amet, consectetur adipiscing elit<br /></p>
 </mj-text>
@@ -32,7 +32,7 @@
 </mj-column>
 <mj-column width="75%">
 <mj-text align="left" color="#fff" font-size="18px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10px">
-<p>FREE SHIPPING ON ORDER <span style="font-weight: bold;color: rgb(250, 135, 57);">OVER 55&#x20AC;</span></p>
+<p>ESCAME <span style="font-weight: bold;color: rgb(250, 135, 57);">ESCAME 55&#x20AC;</span></p>
 </mj-text>
 </mj-column>
 </mj-section>

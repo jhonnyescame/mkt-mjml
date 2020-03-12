@@ -1,39 +1,44 @@
-
-var gulp = require('gulp'); //GULP
-var mjml = require('gulp-mjml'); //GULP MJML
-
-var mjmlEngine = require('mjml');
-
-var browserSync =require('browser-sync'); // BROWSER SYNC
-var reload 		= browserSync.reload;
+var gulp = require("gulp"),
+    mjml = require('gulp-mjml'), //GULP MJML
+    mjmlEngine = require('mjml'),
+    browserSync = require("browser-sync").create();
 
 
-// Caminho Dev
-var pastaDev = ['news-dev/**/*.mjml'];
-
-// Caminho Prod
-var pastaProd = ['news-prod/**/*.html'];
-
-gulp.task('news', function () {
-  return gulp.src(pastaDev)
-    // .pipe(mjml()) 
-    .pipe(mjml(mjmlEngine, {minify: true})) // MIMIFICAR
-    .pipe(gulp.dest('./news-prod'))
-});
-
-
-gulp.task('serve', function() {
-  browserSync.init( pastaProd , {
-    server: {
-      baseDir :'news-prod'
+var paths = {
+    styles: {
+        // CAMINHO DEV
+        pastaDev: "news-dev/**/*.mjml",
+        // DESTINO
+        pastaProd: "news-prod/**/*.html",
     }
-  })
-});
+};
+function reload() {
+    browserSync.reload();
+}
+
+function news(){
+  return gulp
+  .src(paths.styles.pastaDev)
+  // .pipe(mjml()) 
+  .pipe(mjml(mjmlEngine, {minify: true})) // MIMIFICAR
+  .pipe(gulp.dest('./news-prod'));
+}
 
 
-gulp.task('watch', function(){
-   gulp.watch(pastaDev, ['news']);
-});
+function watch() {
+    browserSync.init({
+        server: {
+            baseDir: "news-prod"
+        }
+    });
+    gulp.watch(paths.styles.pastaDev, news);
+    gulp.watch("news-dev/*.mjml", news).on('change', browserSync.reload);
+    gulp.watch("news-dev/*.html", news).on('change', browserSync.reload);
+}
 
+exports.news = news;
+exports.watch = watch;
 
-gulp.task('default', ['news', 'watch', 'serve']);
+var build = gulp.parallel(news, watch);
+
+gulp.task('default', build);

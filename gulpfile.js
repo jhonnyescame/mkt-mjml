@@ -1,39 +1,37 @@
 
-var gulp = require('gulp'); //GULP
-var mjml = require('gulp-mjml'); //GULP MJML
+var gulp = require('gulp'), //GULP
+    mjml = require('gulp-mjml'), //GULP MJML
+    mjmlEngine = require('mjml'),
+    browserSync = require("browser-sync").create();
 
-var mjmlEngine = require('mjml');
+var pastaDev = ['news-dev/**/*.mjml']; // Caminho Dev
+var pastaProd = ['news-prod/**/*.html']; // Caminho Prod
 
-var browserSync =require('browser-sync'); // BROWSER SYNC
-var reload 		= browserSync.reload;
+function reload() {
+  browserSync.reload();
+}
 
+function news(){
+  return gulp
+  .src(pastaDev)
+  .pipe(mjml()) 
+  // .pipe(mjml(mjmlEngine, {minify: true})) // MIMIFICAR
+  .pipe(gulp.dest('./news-prod'))
+}
 
-// Caminho Dev
-var pastaDev = ['news-dev/**/*.mjml'];
-
-// Caminho Prod
-var pastaProd = ['news-prod/**/*.html'];
-
-gulp.task('news', function () {
-  return gulp.src(pastaDev)
-    .pipe(mjml()) 
-    // .pipe(mjml(mjmlEngine, {minify: true})) // MIMIFICAR
-    .pipe(gulp.dest('./news-prod'))
-});
-
-
-gulp.task('serve', function() {
+function serve(){
   browserSync.init( pastaProd , {
     server: {
       baseDir :'news-prod'
     }
   })
-});
+}
 
+function watch(){
+  return gulp
+  .watch(pastaDev, news);
+}
 
-gulp.task('watch', function(){
-   gulp.watch(pastaDev, ['news']);
-});
+var build = gulp.parallel(news, watch, serve);
 
-
-gulp.task('default', ['news', 'watch', 'serve']);
+gulp.task('default', build);
